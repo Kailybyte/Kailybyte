@@ -1,4 +1,4 @@
-<p align="left">Hello World!! <br><br>Olá! Sou estudante de Análise e Desenvolvimento de Sistemas com um forte interesse em desenvolvimento backend ....</p>
+<p align="left">Hello World!! <br><br> Sou estudante de Análise e Desenvolvimento de Sistemas com um forte interesse em desenvolvimento backend ....</p>
 
 ###
 
