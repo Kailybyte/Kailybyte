@@ -33,9 +33,7 @@ Formada em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e c
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Kailybyte/count.svg?"  />
-</div>
+
 
 ###
 
